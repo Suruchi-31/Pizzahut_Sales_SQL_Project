@@ -7,6 +7,7 @@ This project focuses on analyzing PizzaHut sales data using PostgreSQL and SQL q
 The dataset was imported from CSV files into PostgreSQL tables, and SQL queries were used to analyze sales performance, customer ordering patterns, and product insights.
 
 Database and Tools
+
 • PostgreSQL
 
 • pgAdmin 4
